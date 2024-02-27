@@ -4,3 +4,6 @@
 [submodule "pytorch"]
 	path = pytorch
 	url = https://13064570402:9o9o9o90@gitee.com/ml_work/pytorch.git
+[submodule "cmd-wrap"]
+	path = cmd-wrap
+	url = http://giteaz:3000/bal/cmd-wrap.git
