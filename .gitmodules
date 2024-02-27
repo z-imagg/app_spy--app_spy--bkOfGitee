@@ -1,0 +1,3 @@
+[submodule "clang-funcSpy"]
+	path = clang-funcSpy
+	url = http://giteaz:3000/app_spy/clang-funcSpy.git
