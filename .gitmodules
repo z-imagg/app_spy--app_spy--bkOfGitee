@@ -1,3 +1,6 @@
 [submodule "clang-funcSpy"]
 	path = clang-funcSpy
 	url = http://giteaz:3000/app_spy/clang-funcSpy.git
+[submodule "pytorch"]
+	path = pytorch
+	url = https://13064570402:9o9o9o90@gitee.com/mirrr/pytorch.git
