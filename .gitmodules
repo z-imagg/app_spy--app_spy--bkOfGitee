@@ -7,3 +7,9 @@
 [submodule "cmd-wrap"]
 	path = cmd-wrap
 	url = http://giteaz:3000/bal/cmd-wrap.git
+[submodule "script_basic"]
+	path = script_basic
+	url = http://prgrmz07:PRGRMZ07@giteaz:3000/bal/script_basic.git
+[submodule "bash-simplify"]
+	path = bash-simplify
+	url = http://prgrmz07:PRGRMZ07@giteaz:3000/bal/bash-simplify.git
