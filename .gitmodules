@@ -13,3 +13,12 @@
 [submodule "bash-simplify"]
 	path = bash-simplify
 	url = http://prgrmz07:PRGRMZ07@giteaz:3000/bal/bash-simplify.git
+[submodule "nlohmann--json"]
+	path = nlohmann--json
+	url = http://giteaz:3000/bal/nlohmann--json.git
+[submodule "yhirose--cpp-httplib"]
+	path = yhirose--cpp-httplib
+	url = http://giteaz:3000/bal/yhirose--cpp-httplib.git
+[submodule "fmtlib-fmt"]
+	path = fmtlib-fmt
+	url = http://giteaz:3000/bal/fmtlib-fmt.git
